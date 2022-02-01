@@ -1,4 +1,7 @@
-## When it is the best time to get lunch at UTD?
+## When it is the best time to get lunch at UTD? 
+
+###### The number of rooms in this data is 219. UTD has more rooms than this but only 219 are tracked in this dataset.
+----
 
 ![Number of classes going on over time by day](https://github.com/mithil957/best-time-to-get-lunch-at-UTD/blob/main/classes_going_on.png)
 
