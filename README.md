@@ -44,6 +44,6 @@
     
 -------
 
-I think sometime around 11:30 am might be a safe bet, b/c students will be walking to class. Even though alot classes end at 11:15 am, there is a chance that students have back to back classes. It might even be possible that the best time for lunch isn't the same every day. 
+I think sometime around 11:30 am might be a safe bet, b/c students will be walking to class. Even though alot classes end at 11:15 am, there is a chance that students have back to back classes. It might even be possible that the best time for lunch isn't the same every day. Maybe, we can check proximity of classes to SU.
 
 Feel free to mess about with the data and if you find a more definitive answer, submit a PR or message me and we can add it here! 
